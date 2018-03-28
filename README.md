@@ -1,2 +1,0 @@
-# MapGta
-Card creator
